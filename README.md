@@ -1,4 +1,4 @@
-# MADHAV E-COMMERCE 
+# MADHAV E-COMMERCE SALES
  I'm thrilled to share the insights I discovered while working on the project "MADHAV E-COMMERCE" . Here's a snapshot of the key findings:
 💰 Total Sales: ₹87,000 - We're thrilled to see our hard work paying off!
 📈 Total Profit: ₹7,000 - Our strategic efforts are yielding solid returns.
